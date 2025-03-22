@@ -25,7 +25,7 @@ E-ZPassNJ is a digital expense tracker designed for commuters using the E-ZPass 
 **John Doe**  
 🚀 Software Engineer | 💡 Passionate Developer | 🎯 Problem Solver  
 📧 Email: johndoe@example.com  
-🌐 Website: [E-ZPassNJ](https://e-zpassnj.com)  
+🌐 Website: [e-zpassnj](https://www.ezpass-nj.com)  
 
 ## Getting Started
 
